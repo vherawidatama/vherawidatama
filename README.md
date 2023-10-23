@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-## Hey there, I'm ̲vherawidatama
+## Hey there 👋, I'm ̲vherawidatama
 -<b> Just a begginner.
 
 ![Victory GitHub stats](https://github-readme-stats.vercel.app/api?username=vherawidatama&show_icons=true&theme=radical)
