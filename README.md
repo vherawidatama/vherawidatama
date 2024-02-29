@@ -1,6 +1,6 @@
 
 ## Hey there 👋, I'm ̲vherawidatama
 -<b> Just a begginner.
+-<b> Funny Developer.
+-<b> Only focus on stability.
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vherawidatama&theme=neon-palenight&hide_border=true)
